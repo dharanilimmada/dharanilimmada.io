@@ -5,67 +5,83 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Linked In Learning",
+    cardImage: "assets/images/education-page/linkedin_prog_fonda.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  },
+  
+  
+  
+  {
+    title: "Advanced Python-Edyst",
+    cardImage: "assets/images/education-page/edyst.completion.certificate.jpeg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Introduction to Data science- CISCO",
+    cardImage: "assets/images/education-page/dsintrocisco.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Introduction to AI - Infosys",
+    cardImage: "assets/images/education-page/infoai.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Machine Learning Foundation - AWS Educate",
+    cardImage: "assets/images/education-page/AWSML.png",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  {
+    title: "Computer Vision 101 - Infosys",
+    cardImage: "assets/images/education-page/cv101.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Introduction to Deep Learning",
+    cardImage: "assets/images/education-page/deeplearnintro.jpg",
+    moocLink:"https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Developing a static Web Page - VI foundation",
+    cardImage: "assets/images/education-page/devstaticwebpage.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  {
+    title: "FMMML- IIIT HYDERABAD",
+    cardImage: "assets/images/education-page/fmmlcertficate.jpg",
+    moocLink:"https://www.linkedin.com/in/yennimanikanta/",
+  {
+    title: "NLP - INFOSYS",
+    cardImage: "assets/images/education-page/nlpinfo.jpg",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  {
+    title: "Python for Software Engineering - Chegg",
+    cardImage: "assets/images/education-page/cheggpyse.png",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "Introduction to AI Fundamentals - IBM SkillsBuild",
+    cardImage: "assets/images/education-page/foundamentalsai.png",
+    moocLink:"https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    title: "AWS solution Architecture - Forage",
+    cardImage: "assets/images/education-page/forageaws.jpg",
+    moocLink:"https://www.linkedin.com/in/yennimanikanta/",
+  {
+    title: "AGILE Methodology - Forage",
+    cardImage: "assets/images/education-page/cognigent.jpg",
+    moocLink:"https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+  title: "CYBER SECURITY ESSENTIALS - CISCO",
+  cardImage: "assets/images/education-page/cyber.jpg",
+  moocLink: "https://www.linkedin.com/in/yennimanikanta/",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
-  },
+    title: "CYBER SECURITY ESSENTIALS - CISCO",
+    cardImage: "assets/images/education-page/introds.png",
+    moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+    },
 ];
 
 const experience = [
