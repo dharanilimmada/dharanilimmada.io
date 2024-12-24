@@ -31,6 +31,7 @@ const moocscards = [
     title: "Machine Learning Foundation - AWS Educate",
     cardImage: "assets/images/education-page/AWSML.png",
     moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  },
   {
     title: "Computer Vision 101 - Infosys",
     cardImage: "assets/images/education-page/cv101.jpg",
@@ -45,14 +46,17 @@ const moocscards = [
     title: "Developing a static Web Page - VI foundation",
     cardImage: "assets/images/education-page/devstaticwebpage.jpg",
     moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  },
   {
     title: "FMMML- IIIT HYDERABAD",
     cardImage: "assets/images/education-page/fmmlcertficate.jpg",
     moocLink:"https://www.linkedin.com/in/yennimanikanta/",
+  },
   {
     title: "NLP - INFOSYS",
     cardImage: "assets/images/education-page/nlpinfo.jpg",
     moocLink: "https://www.linkedin.com/in/yennimanikanta/",
+  },
   {
     title: "Python for Software Engineering - Chegg",
     cardImage: "assets/images/education-page/cheggpyse.png",
@@ -67,7 +71,8 @@ const moocscards = [
     title: "AWS solution Architecture - Forage",
     cardImage: "assets/images/education-page/forageaws.jpg",
     moocLink:"https://www.linkedin.com/in/yennimanikanta/",
-  {
+  },
+  { 
     title: "AGILE Methodology - Forage",
     cardImage: "assets/images/education-page/cognigent.jpg",
     moocLink:"https://www.linkedin.com/in/yennimanikanta/",
